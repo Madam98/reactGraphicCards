@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Geforce RTX 3090",
+    "price": "$1,499",
+    "imgUrl": "img/3090.jpg",
+    "rating": 48002,
+    "microarchitecture": "Ampere"
+  },
+  {
+    "id": 2,
+    "name": "Geforce RTX 3080Ti",
+    "price": "$1,199",
+    "imgUrl": "img/3080Ti.jpg",
+    "rating": 47008,
+    "microarchitecture": "Ampere"
+  },
+  {
+    "id": 3,
+    "name": "Geforce RTX 3080",
+    "price": "$699",
+    "imgUrl": "img/3080.jpg",
+    "rating": 42367,
+    "microarchitecture": "Ampere"
+  },
+  {
+    "id": 4,
+    "name": "Geforce RTX 3070Ti",
+    "price": "$599",
+    "imgUrl": "img/3070Ti.jpg",
+    "rating": 36201,
+    "microarchitecture": "Ampere"
+  },
+  {
+    "id": 5,
+    "name": "Geforce RTX 3070",
+    "price": "$499",
+    "imgUrl": "img/3070.jpg",
+    "rating": 33890,
+    "microarchitecture": "Ampere"
+  },
+  {
+    "id": 6,
+    "name": "Geforce RTX 3060Ti",
+    "price": "$399",
+    "imgUrl": "img/3060Ti.jpg",
+    "rating": 29495,
+    "microarchitecture": "Ampere"
+  },
+  {
+    "id": 7,
+    "name": "Geforce RTX 3060",
+    "price": "$329",
+    "imgUrl": "img/3060.jpg",
+    "rating": 21716,
+    "microarchitecture": "Ampere"
+  },
+  {
+    "id": 8,
+    "name": "Geforce RTX 3050",
+    "price": "$249",
+    "imgUrl": "img/3050.jpg",
+    "rating": 15257,
+    "microarchitecture": "Ampere"
+  },
+  {
+    "id": 9,
+    "name": "Geforce RTX 2080Ti",
+    "price": "$999",
+    "imgUrl": "img/2080Ti.jpg",
+    "rating": 35023,
+    "microarchitecture": "Turing"
+  },
+  {
+    "id": 10,
+    "name": "Geforce RTX 2080",
+    "price": "$699",
+    "imgUrl": "img/2080.jpg",
+    "rating": 27822,
+    "microarchitecture": "Turing"
+  },
+  {
+    "id": 11,
+    "name": "Geforce RTX 2070",
+    "price": "$499",
+    "imgUrl": "img/2070.jpg",
+    "rating": 23580,
+    "microarchitecture": "Turing"
+  },
+  {
+    "id": 12,
+    "name": "Geforce RTX 2060",
+    "price": "$349",
+    "imgUrl": "img/2060.jpg",
+    "rating": 19225,
+    "microarchitecture": "Turing"
+  }
+]
